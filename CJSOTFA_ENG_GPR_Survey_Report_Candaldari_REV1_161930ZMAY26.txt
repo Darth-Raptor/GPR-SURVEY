@@ -1,0 +1,271 @@
+// SECRET // REL TF20 // NOFORN //
+
+ENGINEER SURVEY REPORT
+
+SUBJECT: HELICOPTER-BORNE GPR SURVEY OF SUSPECTED SUBSURFACE NETWORK, CANDALDARI DISTRICT
+
+REPORT NUMBER: CJSOTFA-ENG/SVY-26-0516-01-REV1
+
+DATE-TIME GROUP: 161930ZMAY26
+
+ISSUING CELL: CJSOTF-A S2
+
+SUPPORTED UNIT: TASK FORCE 20 HHC
+
+PLATFORM: MH-60M BLACKHAWK, B CO 2/160th SOAR
+
+COLLECTION WINDOW: 162000ZMAY26-162254ZMAY26
+
+SUPPORTING COLLECTION: SATELLITE THERMAL IMAGING, 170400ZMAY26
+
+REFERENCE: GPR SCAN AREA; GPR DETECTED SUBSURFACE RETURNS; KNOWN ACCESS POINTS E1, E2, E3
+
+1. EXECUTIVE SUMMARY
+
+Helicopter-borne ground-penetrating radar collection over the designated Candaldari District scan area produced a semi-successful subsurface survey. The collection identified one high-confidence primary subsurface corridor, two moderate-confidence associated branch features, and several low-confidence anomalies consistent with either tunnel extensions, ventilation/access infrastructure, disturbed overburden, drainage voids, or natural subsurface discontinuities.
+
+The strongest return is spatially consistent with a probable man-made subsurface corridor extending from the E1 vicinity through the E2 vicinity toward the E3 vicinity. E1, E2, and E3 are the only confirmed player-facing access references carried in this report. Additional detected points are not treated as confirmed entrances. They are reported as suspected subsurface nodes, thermal anomalies, ventilation candidates, or unresolved features pending ground exploitation.
+
+Satellite thermal imaging collected at 170400ZMAY26 identified localized thermal anomalies along the GPR-derived corridor. The strongest thermal correlation was observed at E1 and E3, with weaker but relevant indicators along the assessed corridor and near possible lateral features. Thermal results support the presence of air exchange or recent surface activity at selected locations but do not independently confirm the full tunnel configuration.
+
+The survey does not resolve the entire network. The product should be treated as an engineer cueing product and exploitation aid, not as a complete underground route map.
+
+2. SURVEY AREA
+
+The scan area covers an approximately rectangular survey box in southern Candaldari District.
+
+Approximate scan limits:
+- West boundary: grid 2400
+- East boundary: grid 2600
+- South boundary: grid 0924
+- North boundary: grid 1134
+
+Approximate coverage:
+- Width: 2.0 km
+- Height: 2.1 km
+- Survey area: approximately 4.2 square kilometers
+
+Known access reference points:
+- E1: grid 2455-1012
+- E2: grid 2537-0993
+- E3: grid 2513-1094
+
+E1, E2, and E3 are treated as known access/control points for interpretation. All other identified locations are reported only as anomaly points or suspected nodes unless physically confirmed by follow-on ground forces.
+
+3. COLLECTION PROFILE
+
+Aircraft / platform:
+- MH-60M Blackhawk, B Co 2/160th SOAR
+
+Sensor:
+- Helicopter-borne GPR package configured for subsurface anomaly detection
+
+Survey parameters:
+- Altitude: 300m AGL
+- Speed: 50 knots
+- Line spacing: 100m
+- Pattern: two-axis survey grid
+- Axis 1: north-south
+- Axis 2: east-west
+- Collection window: 162000ZMAY26-162254ZMAY26
+
+Supporting thermal collection:
+- Satellite thermal imaging
+- Collection time: 170400ZMAY26
+- Collection purpose: identify surface heat-transfer, airflow, disturbed-ground, or recent-use indicators associated with possible access points, ventilation shafts, or near-surface subsurface features
+
+4. GPR FINDINGS
+
+A. A-01 PRIMARY CORRIDOR
+
+The strongest GPR return is a continuous, irregular, northeast-trending subsurface anomaly beginning near E1, passing through the E2 vicinity, and extending toward E3. The return displays characteristics consistent with a linear void, disturbed-overburden zone, or engineered subsurface passage.
+
+Assessed corridor:
+- Start: E1 vicinity / grid 2455-1012
+- Intermediate known reference: E2 vicinity / grid 2537-0993
+- Northeast endpoint: E3 vicinity / grid 2513-1094
+- Observed trace length: approximately 1.8-2.0 km
+- General orientation: southwest to northeast with irregular curvature
+- Confidence: HIGH for subsurface corridor presence; MODERATE for exact continuity and internal configuration
+
+Assessment:
+A-01 is assessed as the principal detected tunnel feature. The return is strong enough to support a probable man-made subsurface route connecting the E1/E2 southern access area with the E3 northeastern access area. Exact width, chambers, internal junctions, serviceability, and trap status remain unconfirmed.
+
+B. A-02 SOUTHERN NODE CLUSTER
+
+A compact cluster of secondary returns was detected near and east of the E1/E2 portion of the primary corridor. These returns are not assessed as confirmed entrances. They may represent short lateral cuts, covered shafts, ventilation infrastructure, shallow utility-style cuts, disturbed backfill, or local widening of the primary tunnel.
+
+Assessed feature:
+- General area: between grids 2486-0994 and 2529-1026
+- Relationship: adjacent to or overlapping the southern half of A-01
+- Observed trace character: discontinuous short returns with mixed thermal support
+- Confidence: MODERATE for subsurface disturbance; LOW TO MODERATE for function
+
+Assessment:
+A-02 should be treated as a suspected node cluster associated with the main corridor. It is not sufficient to brief as a confirmed entrance cluster. Ground forces should prioritize the area only after E1, E2, and E3 are secured or observed.
+
+C. A-03 EASTERN LATERAL FEATURE
+
+A moderate-strength GPR return extends east from the E1/A-02 area toward a suspected lateral endpoint east of the known access corridor. The return is shorter and less continuous than A-01, but is consistent with a lateral branch, service cut, ventilation run, or older tunnel section.
+
+Assessed corridor:
+- Start area: E1/A-02 vicinity
+- Endpoint area: grid 2527-1025
+- Observed trace length: approximately 700-800 m
+- General orientation: west to east
+- Confidence: MODERATE
+
+Assessment:
+A-03 is assessed as a probable lateral subsurface feature linked to the main access area. Thermal support in the endpoint area suggests possible ventilation or disturbed ground, but the location should be reported as a suspected node, not a confirmed entrance.
+
+D. A-04 NORTHERN BRANCH / E3 APPROACH
+
+A third return was observed north of the primary corridor and trending toward the E3 vicinity. The line is less persistent than A-01 and may represent a branch corridor, a partially collapsed segment, disturbed fill, or a parallel near-surface feature.
+
+Assessed corridor:
+- Western portion: grid 2456-1080
+- Central portion: grid 2482-1073 to 2509-1073
+- Endpoint: E3 vicinity / grid 2513-1094
+- Observed trace length: approximately 700-800 m
+- General orientation: west to east / southwest to northeast
+- Confidence: MODERATE
+
+Assessment:
+A-04 is assessed as a possible branch feeding the E3 access area. Thermal support is weaker than at E1 and E3, but sufficient to warrant observation during any ground exploitation of E3.
+
+E. A-05 WESTERN DEGRADED FEATURE
+
+A degraded linear anomaly was observed west of the primary access corridor. The return is less coherent and is difficult to distinguish from drainage, natural terrain, or disturbed ground.
+
+Assessed corridor:
+- Western start area: grid 2405-1067
+- Central portion: grid 2420-1039
+- Eastern portion: grid 2474-1024
+- Observed trace length: approximately 800-900 m
+- General orientation: northwest to southeast
+- Confidence: LOW TO MODERATE
+
+Assessment:
+A-05 should not be treated as a confirmed tunnel segment. It is retained as a watch-list feature for follow-on inspection only if exploitation of higher-confidence access points produces corroborating reporting.
+
+F. A-06 FAR NORTHEAST THERMAL / SURFACE-LINE ANOMALY
+
+A weak far-northeast feature was identified near the edge of the scan area. The feature produced limited GPR continuity and limited thermal support. It may represent a minor disturbed-ground line, drainage feature, natural void, shallow utility cut, or inactive extension.
+
+Assessed area:
+- General vicinity: grid 2574-1100 to 2600-1100
+- Confidence: LOW
+
+Assessment:
+A-06 is retained for awareness only. It should not drive immediate ground exploitation unless corroborated by detainee reporting, HUMINT, visual observation, or follow-on collection.
+
+5. ANOMALY TABLE
+
+A-01
+Type: Primary linear subsurface corridor
+Location: E1-E2-E3 corridor
+Grid: 2455-1012 through 2537-0993 to 2513-1094
+Estimated observed length: ~1.8-2.0 km
+Orientation: SW-NE / irregular
+GPR confidence: HIGH
+Thermal correlation: HIGH at E1 and E3; MODERATE along southern corridor
+Assessment: Probable man-made tunnel corridor
+
+A-02
+Type: Southern subsurface node cluster
+Location: Southern half of primary corridor
+Grid: 2486-0994 to 2529-1026
+Estimated observed size: localized cluster / short discontinuous returns
+Orientation: mixed
+GPR confidence: MODERATE
+Thermal correlation: MODERATE
+Assessment: Suspected node cluster, junction, ventilation, or disturbed-overburden area
+
+A-03
+Type: Eastern lateral subsurface feature
+Location: East of E1/A-02 corridor
+Grid: 2455-1012 to 2527-1025
+Estimated observed length: ~700-800 m
+Orientation: W-E
+GPR confidence: MODERATE
+Thermal correlation: MODERATE near endpoint area
+Assessment: Probable branch or service/ventilation feature
+
+A-04
+Type: Northern branch / E3 approach
+Location: North of primary corridor feeding E3 vicinity
+Grid: 2456-1080 to 2513-1094
+Estimated observed length: ~700-800 m
+Orientation: W-E / SW-NE
+GPR confidence: MODERATE
+Thermal correlation: LOW TO MODERATE
+Assessment: Possible branch corridor or disturbed movement route
+
+A-05
+Type: Western degraded subsurface feature
+Location: West of primary access corridor
+Grid: 2405-1067 to 2474-1024
+Estimated observed length: ~800-900 m
+Orientation: NW-SE
+GPR confidence: LOW TO MODERATE
+Thermal correlation: LOW
+Assessment: Possible tunnel segment, drainage feature, or disturbed overburden
+
+A-06
+Type: Far northeast surface-line / weak subsurface anomaly
+Location: northeastern edge of scan box
+Grid: 2574-1100 to 2600-1100
+Estimated observed length: short / discontinuous
+Orientation: W-E
+GPR confidence: LOW
+Thermal correlation: LOW TO MODERATE
+Assessment: Watch-list anomaly only
+
+6. SATELLITE THERMAL CORRELATION
+
+Satellite thermal imaging collected at 170400ZMAY26 identified localized surface-temperature irregularities within the survey box. These findings are assessed as supportive but not independently confirmatory.
+
+Thermal findings:
+- E1: strong localized thermal contrast; assessed as likely active or recently active air-exchange/access point.
+- E3: strong localized thermal contrast; assessed as likely active or recently active air-exchange/access point.
+- E2 vicinity: moderate localized thermal contrast along A-01; possible access, junction, or ventilation indicator.
+- A-02/A-03 endpoint area: moderate thermal contrast; possible ventilation or disturbed-ground indicator.
+- A-04 northern branch area: weak to moderate diffuse thermal pattern; possible disturbed ground or minor air-exchange area.
+- A-05 western feature: weak thermal support; insufficient for confidence upgrade.
+
+Assessment:
+Thermal correlation increases confidence in the A-01 corridor and supports prioritizing E1, E2, and E3 during ground exploitation. It does not confirm every GPR return as a tunnel, nor does it identify the exact function of suspected nodes.
+
+7. ENGINEER LIMITATIONS
+
+A. GPR collection identified subsurface anomalies, not a complete tunnel map.
+
+B. GPR cannot determine personnel presence, booby traps, internal chamber layout, door status, or exact tunnel serviceability.
+
+C. Thermal collection does not see through soil or rock. It only indicates surface heat-transfer, airflow, disturbed ground, or recent-use signatures.
+
+D. Low-confidence anomalies may represent drainage, natural voids, buried debris, backfill, rock fractures, or non-tunnel excavation.
+
+E. E1, E2, and E3 are the only confirmed access references in this product. Other locations require physical confirmation before being briefed as entrances or exits.
+
+8. FOLLOW-ON ENGINEER RECOMMENDATIONS
+
+A. Prioritize ground confirmation at E1, E2, and E3.
+
+B. Establish observation or cordon coverage over A-02 and A-04 before entering any known access point.
+
+C. Treat all suspected access or ventilation nodes as potentially booby-trapped.
+
+D. Use EOD, confined-space procedures, and remote inspection where available.
+
+E. Conduct follow-on thermal or small-UAS observation of A-02/A-03 endpoint areas during pre-dawn or night periods.
+
+F. Do not publish A-05 or A-06 as confirmed tunnel branches without physical confirmation or corroborating reporting.
+
+9. OVERALL ENGINEER ASSESSMENT
+
+The GPR and thermal survey was semi-successful. It did not fully resolve the underground system, but it produced a credible cueing picture. The A-01 E1-E2-E3 corridor is assessed as a probable man-made subsurface route. A-02, A-03, and A-04 represent plausible associated branches or support nodes. A-05 and A-06 remain unresolved.
+
+The recommended exploitation posture is to treat E1, E2, and E3 as priority access/control points, secure or observe the suspected node areas, and avoid assuming that the absence of strong GPR/thermal return equals absence of tunnel infrastructure.
+
+// SECRET // REL TF20 // NOFORN //
