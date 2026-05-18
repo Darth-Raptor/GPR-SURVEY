@@ -1,0 +1,230 @@
+// SECRET // REL TF20 // NOFORN //
+
+INTELLIGENCE BRIEF
+
+SUBJECT: ASSESSMENT OF GPR-DETECTED SUBSURFACE NETWORK, CANDALDARI DISTRICT
+
+REPORT NUMBER: CJSOTFA-S2-26-0517-01-REV1
+
+DATE-TIME GROUP: 171000ZMAY26
+
+PREPARED FOR: TASK FORCE 20 HHC
+
+PREPARED BY: CJSOTF-A S2
+
+SOURCE REPORT: CJSOTFA-ENG/SVY-26-0516-01-REV1, HELICOPTER-BORNE GPR SURVEY OF SUSPECTED SUBSURFACE NETWORK, CANDALDARI DISTRICT
+
+SUPPORTING COLLECTION:
+- Helicopter-borne GPR collection, 162000ZMAY26-162254ZMAY26
+- Satellite thermal imaging, 170400ZMAY26
+
+1. EXECUTIVE ASSESSMENT
+
+CJSOTF-A S2 assesses that the GPR survey identified a probable enemy subsurface network in the Candaldari District scan area. The strongest detected feature is a southwest-to-northeast corridor running from the E1 vicinity at grid 2455-1012, through the E2 vicinity at grid 2537-0993, toward the E3 vicinity at grid 2513-1094. This corridor is assessed as the primary tunnel axis and is likely suitable for concealed movement, evasion, limited storage, and protected transit between known access areas.
+
+Satellite thermal imaging collected at 170400ZMAY26 increases confidence in the assessment by identifying thermal anomalies at E1 and E3 consistent with air exchange, concealed access, or recent use. Moderate thermal indicators near E2 and suspected node areas along the southern/eastern portion of the corridor suggest possible ventilation, junction, or branch infrastructure. These additional indicators are not assessed as confirmed entrances.
+
+Bottom line: the E1-E2-E3 corridor should be treated as a probable operational tunnel system. E1, E2, and E3 are priority exploitation/control points. Other detected features should be handled as suspected subsurface nodes or unresolved anomalies pending ground confirmation.
+
+2. OPERATIONAL CONTEXT
+
+The survey was requested following previous reporting of enemy tunnel and cave use in the Candaldari area. The enemy has demonstrated the ability to use underground features for concealment, movement, defensive positioning, and materiel storage. Prior SSE recovered communications radios, thermal optics, night-vision equipment, and maps from an enemy cave system, indicating that local underground infrastructure may support more than simple evasion.
+
+The detected network sits inside a compact 4.2 square kilometer scan area bounded approximately by grids 2400-0924 and 2600-1134. This places the assessed network within usable distance of concealed surface approaches, compounds, terrain folds, and possible militant support areas.
+
+3. KEY JUDGMENTS
+
+A. The E1-E2-E3 axis is the primary detected tunnel corridor.
+
+The strongest GPR return traces an irregular corridor from grid 2455-1012 through grid 2537-0993 toward grid 2513-1094. This axis is assessed as the most likely continuous man-made underground movement route.
+
+B. E1 and E3 are the strongest fused access indicators.
+
+Both points correlate with strong GPR indicators and thermal anomalies. These locations should be treated as priority entry/exit or air-exchange candidates until ground exploitation determines exact function.
+
+C. E2 is a priority control point along the primary corridor.
+
+E2 sits along the assessed primary corridor and has moderate thermal support. It may represent an access point, junction, ventilation feature, or corridor-control location. It should be observed or secured during any exploitation of E1 or E3.
+
+D. Additional features are suspected nodes, not known entrances.
+
+The survey detected several possible branch or node areas outside E1/E2/E3. These are assessed as possible ventilation, branch, disturbed-overburden, or inactive tunnel features. They should not be briefed as confirmed entrances until physically verified.
+
+E. The network is not fully mapped.
+
+Several weak returns remain unresolved. This may reflect incomplete collection resolution, masked entrances, lower-use tunnel sections, natural/drainage clutter, or branches not currently active.
+
+4. ASSESSED NETWORK LAYOUT
+
+Primary axis: A-01
+- E1 vicinity / grid 2455-1012
+- E2 vicinity / grid 2537-0993
+- E3 vicinity / grid 2513-1094
+
+Assessment:
+This is the principal detected movement corridor. It likely links a southern access area to a northeastern access or exit area. The corridor may include bends or non-linear passage patterns rather than a straight tunnel.
+
+Southern node cluster: A-02
+- General area: grid 2486-0994 to 2529-1026
+
+Assessment:
+This area contains moderate GPR returns and thermal support adjacent to the southern half of the primary corridor. It may represent a junction, ventilation feature, shallow branch, disturbed-ground area, or local widening. It is not confirmed as an entrance.
+
+Eastern lateral feature: A-03
+- General area: E1/A-02 vicinity east toward grid 2527-1025
+
+Assessment:
+This is a probable lateral feature or service/ventilation branch connected to the main access area. The endpoint area has moderate thermal support, but exact function is unknown.
+
+Northern branch / E3 approach: A-04
+- General area: grid 2456-1080 to E3 vicinity / grid 2513-1094
+
+Assessment:
+This is a possible branch feeding the E3 area. It may support alternate egress, movement toward the northern side of the system, or concealment of movement between adjacent surface positions.
+
+Western degraded feature: A-05
+- General area: grid 2405-1067 to 2474-1024
+
+Assessment:
+This feature is unresolved. It could represent a tunnel branch, older excavation, drainage, disturbed ground, or natural voiding. It should be inspected only after higher-confidence access points are secured or if additional reporting supports a connection.
+
+Far northeast anomaly: A-06
+- General area: grid 2574-1100 to 2600-1100
+
+Assessment:
+This is a low-confidence watch-list anomaly. It should not drive immediate action unless corroborated.
+
+5. THERMAL IMAGING ASSESSMENT
+
+Satellite thermal imaging at 170400ZMAY26 identified multiple thermal anomalies within the scan area. Thermal collection does not see underground passages directly; however, it can identify heat-transfer, airflow, and surface-use indicators associated with shafts, entrances, vents, or disturbed ground.
+
+Thermal findings:
+- E1: high-confidence thermal correlation with GPR return; likely access or air-exchange point.
+- E3: high-confidence thermal correlation with GPR return; likely access or air-exchange point.
+- E2: moderate thermal correlation along the primary corridor; possible access, junction, or ventilation indicator.
+- A-02/A-03 area: moderate thermal correlation; possible ventilation, branch endpoint, or disturbed-ground indicator.
+- A-04 area: weak to moderate diffuse thermal pattern; possible disturbed ground or minor air-exchange area.
+- A-05/A-06 areas: weak thermal support; insufficient for confidence upgrade.
+
+Assessment:
+Thermal collection increases confidence in the E1-E2-E3 primary tunnel assessment. It does not independently confirm the entire network. The strongest fused indicators are E1 and E3.
+
+6. ENEMY USE ASSESSMENT
+
+The detected network is assessed as suitable for the following enemy uses:
+
+A. Concealed movement between access points.
+
+The E1-E2-E3 corridor likely allows personnel to move beneath or around surface observation and defensive positions.
+
+B. Evasion and escape from raid pressure.
+
+Multiple suspected node areas increase the possibility that enemy personnel can break contact, bypass cordons, or exploit unobserved surface openings.
+
+C. Cache and staging support.
+
+Branch or node areas may support temporary storage of weapons, radios, medical supplies, explosives, or sustainment items.
+
+D. Defensive ambush preparation.
+
+Access points and suspected branch nodes near compounds, terrain folds, or concealed surface routes may allow enemy fighters to reposition or emerge outside the expected assault lane.
+
+E. Command/courier movement.
+
+The network may support clandestine courier movement or short-duration concealment for local facilitators.
+
+7. THREAT IMPLICATIONS
+
+A. Direct action against any single point may be insufficient.
+
+If the network includes branches or unconfirmed exits, an assault or cordon focused only on E1 may allow personnel to escape toward E2, E3, or suspected node areas.
+
+B. EOD support is required.
+
+Any discovered entrance, shaft, or suspicious node should be treated as potentially booby-trapped, blocked, rigged, or prepared for denial.
+
+C. GPR-negative and thermal-negative areas cannot be assumed clear.
+
+Low-confidence or unresolved returns may still include inactive, masked, deeper, or naturally shielded tunnel sections.
+
+D. Cordons should account for E1, E2, E3, and A-02/A-04.
+
+These locations should be controlled or observed during any ground exploitation of the primary corridor.
+
+E. Capture value may exceed destruction value.
+
+If the network is intact, SSE may produce documents, communications equipment, explosive materials, biometric traces, tunnel maps, or detainees with knowledge of associated cells.
+
+8. PRIORITY LOCATIONS FOR TF20
+
+PRIORITY 1:
+E1 / grid 2455-1012
+Reason: high-confidence GPR and thermal correlation; likely primary access or air-exchange point.
+
+PRIORITY 2:
+E3 / grid 2513-1094
+Reason: high-confidence GPR and thermal correlation; likely exit/access or air-exchange point.
+
+PRIORITY 3:
+E2 / grid 2537-0993
+Reason: located along primary corridor with moderate thermal support; possible access, junction, or ventilation point.
+
+PRIORITY 4:
+A-02 / southern node cluster / grid 2486-0994 to 2529-1026
+Reason: moderate GPR and thermal support near the southern corridor; possible junction, covered shaft, ventilation, or disturbed-ground feature.
+
+PRIORITY 5:
+A-04 / northern branch approach / grid 2456-1080 to 2513-1094
+Reason: possible branch feeding E3; should be observed while E3 is exploited.
+
+WATCH-LIST:
+A-05 western degraded feature and A-06 far northeast anomaly
+Reason: low-confidence features; hold for follow-on collection or exploitation only if corroborated.
+
+9. RECOMMENDED ACTIONS
+
+A. Conduct ground reconnaissance and controlled exploitation of E1, E2, and E3.
+
+B. Establish observation on A-02 and A-04 before physical entry into any known access point.
+
+C. Assign EOD support to all entrance or suspected node exploitation.
+
+D. Use small-UAS, thermal observation, and remote inspection equipment prior to personnel entry.
+
+E. Preserve the network for SSE if tactically feasible; do not collapse or destroy before document, biometric, equipment, and detainee exploitation opportunities are assessed.
+
+F. Treat A-05 and A-06 as watch-list features unless corroborated by ground force observation, detainee reporting, or additional collection.
+
+10. INTELLIGENCE GAPS
+
+A. Exact internal layout of the E1-E2-E3 corridor.
+
+B. Whether A-02, A-03, or A-04 connect physically to the primary corridor.
+
+C. Number of usable entrances, shafts, vents, or blocked passages.
+
+D. Presence of booby traps, doors, fighting positions, caches, or command infrastructure.
+
+E. Enemy usage frequency and current occupancy.
+
+F. Relationship between the tunnel system and local facilitators, nearby compounds, courier routes, or prior detainees.
+
+11. COLLECTION REQUIREMENTS
+
+A. Confirm physical status of E1, E2, and E3.
+
+B. Determine whether A-02/A-03 area contains a shaft, ventilation point, or tunnel junction.
+
+C. Observe A-04 during any E3 exploitation to prevent escape or counterattack.
+
+D. Collect biometrics, documents, device media, and trace evidence from any confirmed tunnel infrastructure.
+
+E. Debrief detainees on construction, access discipline, entrance concealment, booby traps, and network users.
+
+12. FINAL ASSESSMENT
+
+The fused GPR and satellite thermal results support assessment of a probable enemy tunnel system centered on the E1-E2-E3 axis. The survey was semi-successful: it identified the primary corridor and several suspected support features, but did not produce a complete tunnel map. E1 and E3 remain the strongest fused indicators. E2 is a priority corridor-control point. Other detected locations should be reported as suspected nodes or unresolved anomalies, not known entrances.
+
+TF20 should exploit the system as a probable operational tunnel network while maintaining discipline in reporting: only physically confirmed access points should be labeled as entrances or exits.
+
+// SECRET // REL TF20 // NOFORN //
