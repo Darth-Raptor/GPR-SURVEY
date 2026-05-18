@@ -1,0 +1,372 @@
+{
+  "type": "FeatureCollection",
+  "name": "CJSOTFA_GPR_Player_Safe_Overlay",
+  "metadata": {
+    "classification": "SECRET//REL TF20//NOFORN",
+    "report": "CJSOTFA-ENG/SVY-26-0516-01 REV1",
+    "collectionWindow": "162000ZMAY26-162254ZMAY26",
+    "thermalScan": "170400ZMAY26",
+    "note": "Player-safe overlay. Only E1, E2, and E3 are named as known access/control points. Other source locations are generalized as anomaly nodes or thermal cueing areas."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SURVEY-AREA",
+        "name": "GPR SURVEY AREA",
+        "category": "scan_area",
+        "confidence": "N/A",
+        "summary": "Authorized GPR survey box for 162000Z\u2013162254Z MAY26 collection.",
+        "popup": "GPR SURVEY AREA"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            24000.96922501842,
+            11312.046889171826
+          ],
+          [
+            24000.96922501842,
+            9238.596574271141
+          ],
+          [
+            26003.102561631156,
+            9242.11686343056
+          ],
+          [
+            25999.583873869098,
+            11329.648334968946
+          ],
+          [
+            23997.45053725636,
+            11336.688913287793
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "E1",
+        "name": "E1",
+        "category": "known_access",
+        "confidence": "HIGH",
+        "summary": "Known access/control reference point E1.",
+        "popup": "E1 / KNOWN ACCESS-CONTROL POINT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24553.333333333332,
+          10118.357770874145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "E2",
+        "name": "E2",
+        "category": "known_access",
+        "confidence": "MOD",
+        "summary": "Known access/control reference point E2.",
+        "popup": "E2 / KNOWN ACCESS-CONTROL POINT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25372.0,
+          9928.938269650616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "E3",
+        "name": "E3",
+        "category": "known_access",
+        "confidence": "HIGH",
+        "summary": "Known access/control reference point E3.",
+        "popup": "E3 / KNOWN ACCESS-CONTROL POINT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25129.333333333332,
+          10941.33151288495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A-01",
+        "name": "A-01 PRIMARY CORRIDOR",
+        "category": "probable_corridor",
+        "confidence": "HIGH",
+        "summary": "Primary detected subsurface corridor connecting the E1/E2 southern access area with the E3 northeastern access area.",
+        "popup": "A-01 / HIGH / A-01 PRIMARY CORRIDOR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24556.0,
+            10114.514936251328
+          ],
+          [
+            24598.666666666668,
+            10049.151868927715
+          ],
+          [
+            24872.0,
+            9939.76877667188
+          ],
+          [
+            25370.666666666668,
+            9927.763315326723
+          ],
+          [
+            25132.0,
+            10939.961744200618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A-03",
+        "name": "A-03 EASTERN LATERAL FEATURE",
+        "category": "probable_lateral",
+        "confidence": "MOD",
+        "summary": "Moderate-strength lateral return east of the E1/A-02 area; possible branch, ventilation run, or older tunnel section.",
+        "popup": "A-03 / MOD / A-03 EASTERN LATERAL FEATURE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24553.333333333332,
+            10118.357770874145
+          ],
+          [
+            24761.341740316075,
+            10173.132553980826
+          ],
+          [
+            24844.04802187586,
+            10263.537950446529
+          ],
+          [
+            25265.237418708104,
+            10255.876476169773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A-04",
+        "name": "A-04 NORTHERN BRANCH / E3 APPROACH",
+        "category": "possible_branch",
+        "confidence": "MOD",
+        "summary": "Possible branch or disturbed-overburden feature trending toward the E3 vicinity.",
+        "popup": "A-04 / MOD / A-04 NORTHERN BRANCH / E3 APPROACH"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24563.765623256582,
+            10798.30885496398
+          ],
+          [
+            24838.666666666668,
+            10726.645401718872
+          ],
+          [
+            25089.333333333332,
+            10723.977521419953
+          ],
+          [
+            25130.666666666668,
+            10945.409158966038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A-05",
+        "name": "A-05 WESTERN DEGRADED FEATURE",
+        "category": "unresolved_feature",
+        "confidence": "LOW-MOD",
+        "summary": "Weak/degraded western return retained as a watch-list feature only.",
+        "popup": "A-05 / LOW-MOD / A-05 WESTERN DEGRADED FEATURE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24052.21195583124,
+            10668.063792259156
+          ],
+          [
+            24203.840138690848,
+            10384.589244019246
+          ],
+          [
+            24675.572263142963,
+            10258.941065880475
+          ],
+          [
+            24744.494164442785,
+            10235.956643050211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A-06",
+        "name": "A-06 FAR NORTHEAST SURFACE-LINE ANOMALY",
+        "category": "thermal_surface_line",
+        "confidence": "LOW-MOD",
+        "summary": "Far northeast thermal/surface-line anomaly retained for awareness only; not a confirmed subsurface corridor.",
+        "popup": "A-06 / LOW-MOD / A-06 FAR NORTHEAST SURFACE-LINE ANOMALY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25130.666666666668,
+            10945.409158966038
+          ],
+          [
+            25746.1591300002,
+            11000.490190867315
+          ],
+          [
+            26003.467561519534,
+            10997.425601156612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A-02",
+        "name": "A-02 SOUTHERN NODE CLUSTER",
+        "category": "node_cluster",
+        "confidence": "MOD",
+        "radius_m": 260,
+        "summary": "Compact cluster of secondary returns near the E1/E2 portion of the primary corridor. Not a confirmed entrance cluster.",
+        "popup": "A-02 / MOD / SOUTHERN NODE CLUSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24980.266666666666,
+          10100.790058768824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "T-01",
+        "name": "T-01 THERMAL CORRELATION / E1",
+        "category": "thermal",
+        "confidence": "HIGH",
+        "summary": "Strong localized thermal contrast at E1. Assessed likely active or recently active air-exchange/access area.",
+        "popup": "T-01 / HIGH / THERMAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24553.333333333332,
+          10118.357770874145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "T-02",
+        "name": "T-02 THERMAL CORRELATION / E3",
+        "category": "thermal",
+        "confidence": "HIGH",
+        "summary": "Strong localized thermal contrast at E3. Assessed likely active or recently active air-exchange/access area.",
+        "popup": "T-02 / HIGH / THERMAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25129.333333333332,
+          10941.33151288495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "T-03",
+        "name": "T-03 THERMAL CORRELATION / E2 VICINITY",
+        "category": "thermal",
+        "confidence": "MOD",
+        "summary": "Moderate localized thermal contrast along A-01; possible access, junction, or ventilation indicator.",
+        "popup": "T-03 / MOD / THERMAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25372.0,
+          9928.938269650616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "T-04",
+        "name": "T-04 THERMAL CORRELATION / A-03 ENDPOINT AREA",
+        "category": "thermal",
+        "confidence": "MOD",
+        "summary": "Moderate thermal contrast near A-03 endpoint area. Possible ventilation or disturbed-ground indicator.",
+        "popup": "T-04 / MOD / THERMAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25269.333333333332,
+          10250.662418953769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "T-05",
+        "name": "T-05 THERMAL CORRELATION / A-04 BRANCH AREA",
+        "category": "thermal",
+        "confidence": "LOW-MOD",
+        "summary": "Weak-to-moderate diffuse thermal pattern along A-04. Possible disturbed ground or minor air-exchange area.",
+        "popup": "T-05 / LOW-MOD / THERMAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25088.0,
+          10726.582899657675
+        ]
+      }
+    }
+  ]
+}
